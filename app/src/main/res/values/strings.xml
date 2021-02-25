@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Vynyl</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="prompt_name">Name</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_name">The username must have at least 1 characters</string>
+    <string name="invalid_username">The username must have at least 4 characters</string>
+    <string name="invalid_password">Password must have 1 letter, 1 number, 1 special character and be at 8 characters long</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="welcome_sign_in">Sign in</string>
+    <string name="welcome_sign_up">Sign up</string>
+    <string name="sign_in_or">- or -</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="tab_text_1">Log in</string>
+    <string name="tab_text_2">Sign up</string>
+    <string name="title_activity_sign_up">SignUp</string>
+    <string name="registered">Your registration was a success, now, sign in</string>
+    <string name="that_is_all">We are done here. Lovely.</string>
+</resources>
